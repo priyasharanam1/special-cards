@@ -43,7 +43,7 @@ const Card2 = () => {
             Ykw I love to try jokes to see people laugh
           </motion.p>
           <p className="mt-2 text-sm">
-            I prepared this tongue-twisting monologue from the movie you know well!
+            I prepared this small monologue from the movie you know well!
           </p>
 
           {/* Image Button to Play Video */}
